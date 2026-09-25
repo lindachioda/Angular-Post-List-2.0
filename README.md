@@ -1,14 +1,17 @@
 
-🛠️ Tecnologie Utilizzate
-Angular
-Angular CLI
-TypeScript
-HTML5
-SCSS
-Bootstrap CSS
-JavaScript Fetch API
-JSON
-Angular Router
+🌐 **Live Demo** <br>
+✨ [Clicca qui per vedere il mio Progetto online!](https://lindachioda.github.io/Angular-Post-List-2.0/)
+
+**🛠️ Tecnologie Utilizzate**
+* Angular
+* Angular CLI
+* TypeScript
+* HTML5
+* SCSS
+* Bootstrap CSS
+* JavaScript Fetch API
+* JSON
+* Angular Router
 
   
 ## 📝 Starting from the Starter Project Angular-Post-List
